@@ -1,0 +1,20 @@
+paths:
+    tests: tests
+    output: tests/_output
+    data: tests/_data
+    support: tests/_support
+    envs: tests/_envs
+actor_suffix: Tester
+extensions:
+    enabled:
+        - Codeception\Extension\RunFailed
+coverage:
+    enabled: false
+    show_only_summary: false
+    include:
+        - app/*
+    exclude:
+        - app/certificates/*
+settings:
+    colors: true
+    memory_limit: 1024M

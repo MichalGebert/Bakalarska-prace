@@ -1,0 +1,2 @@
+-- phpMyAdmin SQL Dump
+-- Zde jsou sql příkazy, které se budou spuštět před každým testem (možnost připravit si databázi do konzistentního stavu)
