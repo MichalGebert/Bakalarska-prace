@@ -49,7 +49,7 @@
 │   ├───🎥Akceptační testy.mp4 - spuštění akceptačních testů pomocí Selenium WebDriveru za užití Chrome prohlížeče (skript automaticky "proklikává" a kontroluje webovou aplikaci GoodAccess)
 │   ├───🎥GitLab CI pipeline.mp4 - názorné vytvoření merge requestu, spuštění pipeline, procházení jednotlivých fázích, ukázka artefaktů, ukázka výsledku testů
 │   ├───🎥Integrační testy.mp4 - spuštění integračních testů
-│   ├───🎥Neúspěšný test - informace o chybě do aplikace Slack.mp4 - po neůspěšném testu přijde notifikace s informací o chybě do aplikace Slack
+│   ├───🎥Neúspěšný test.mp4 - informace o chybě do aplikace Slack - po neůspěšném testu přijde notifikace s informací o chybě do aplikace Slack
 │   ├───🎥PHPCodeSniffer.mp4 - analýza kódu pomocí PHPCodeSnifferu a následná automatická oprava chyb
 │   ├───🎥PHPStan.mp4 - spuštění statické analýzy pomocí PHPStan 
 │   └───🎥Unit testy.mp4 - spuštění unit testů
