@@ -56,4 +56,5 @@
 │
 ├───📄.gitlab-ci.yml - configurační soubor pro GitLab pipeline
 ├───📄codeception.yml - configurační soubor pro Codeception
+├───📄dobrozdání.pdf - odborné stanovisko firmy GoodAccess s.r.o.
 └───📄phpstan.neon - configurační soubor pro PHPStan
